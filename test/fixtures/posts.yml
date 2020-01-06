@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  post: MyString
+  user_id: 1
+  description: MyText
+  date_lost: 2020-01-05
+  location_lost: MyString
+  gps: MyString
+  reward: 1
+  image: MyString
+
+two:
+  post: MyString
+  user_id: 1
+  description: MyText
+  date_lost: 2020-01-05
+  location_lost: MyString
+  gps: MyString
+  reward: 1
+  image: MyString
